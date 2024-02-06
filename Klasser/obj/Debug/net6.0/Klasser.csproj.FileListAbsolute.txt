@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\bin\Debug\net6.0\Klasser.exe
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\bin\Debug\net6.0\Klasser.deps.json
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\bin\Debug\net6.0\Klasser.runtimeconfig.json
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\bin\Debug\net6.0\Klasser.dll
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\bin\Debug\net6.0\Klasser.pdb
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\Klasser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\Klasser.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\Klasser.AssemblyInfo.cs
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\Klasser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\Klasser.dll
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\refint\Klasser.dll
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\Klasser.pdb
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\Klasser.genruntimeconfig.cache
+C:\Users\Admin\Documents\Labbar\Klasser\Klasser\obj\Debug\net6.0\ref\Klasser.dll
